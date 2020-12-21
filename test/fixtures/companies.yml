@@ -1,16 +1,20 @@
 hometown_painting:
   name: Hometown Painting
-  email: "hometown_painting@hometown_painting.com"
+  email: "hometown_painting@getmainstreet.com"
   zip_code: "93003"
   phone: "555-808-8888"
   services: "{Interior Painting, Commercial Painting}"
+  city: "Ventura"
+  state: "California"
 
 wolf_painting:
   name: "Wolf Painting"
-  email: "wolf_painting@wolf_painting.com"
-  zip_code: "30301"
+  email: "wolf_painting@getmainstreet.com"
+  zip_code: "93003"
   phone: "555-808-8888"
   services: "{Interior Painting, Commercial Painting, Exterior Painting}"  
+  city: "Ventura"
+  state: "California"
 
 thompson_patining:
   name: "Thompson Family Painting"
